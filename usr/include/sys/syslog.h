@@ -1,0 +1,1 @@
+../i386-linux-gnu/sys/syslog.h
